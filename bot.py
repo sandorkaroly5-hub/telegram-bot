@@ -1,7 +1,9 @@
 import requests
 import time
 
-TOKEN = "8745996247:AAHfCMF7c1EZCeqk55IlxjnIpwZuoVcAd4s"
+TOKEN ="
+8745996247:AAHfCMF7c1EZCeqk55IlxjnIpwZuoVcAd4s"
+
 CHAT_ID = "6753532700"
 
 coins = ["BTC-USD", "ETH-USD"]
