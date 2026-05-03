@@ -1,8 +1,7 @@
 import requests
-import time
+import os
+TOKEN = os.getenv("8745996247:AAEcisO67tU5_OE0_CjK35FcNZXLoFor0GM")
 
-TOKEN ="
-8745996247:AAHfCMF7c1EZCeqk55IlxjnIpwZuoVcAd4s"
 
 CHAT_ID = "6753532700"
 
